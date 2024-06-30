@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Front-EndWebsiteLearnEnglish/static/css/main.993266b1.css",
+    "main.js": "/Front-EndWebsiteLearnEnglish/static/js/main.238481e7.js",
+    "static/media/imgLearn.jpg": "/Front-EndWebsiteLearnEnglish/static/media/imgLearn.21bb6abf71d9d6e40df3.jpg",
+    "static/media/imgHero.jpg": "/Front-EndWebsiteLearnEnglish/static/media/imgHero.ddc2e2730406a2842434.jpg",
+    "index.html": "/Front-EndWebsiteLearnEnglish/index.html",
+    "main.993266b1.css.map": "/Front-EndWebsiteLearnEnglish/static/css/main.993266b1.css.map",
+    "main.238481e7.js.map": "/Front-EndWebsiteLearnEnglish/static/js/main.238481e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993266b1.css",
+    "static/js/main.238481e7.js"
+  ]
+}
