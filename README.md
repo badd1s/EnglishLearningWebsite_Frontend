@@ -1,6 +1,8 @@
-# Cách chạy Front-End
+# Cách sử dụng Front-End
 
-### `npm install` để tải các thư viện của dự án trong "package.json".
+### Clone dự án vào Visual Studio Code, sau đó mở "Terminal".
 
-### `npm start` để khởi chạy dự án.
+### Chạy `npm install` để tải các thư viện của dự án trong "package.json".
+
+### Chạy `npm start` để khởi chạy dự án.
 
