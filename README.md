@@ -1,6 +1,4 @@
-# Cách sử dụng Front-End
-
-### Clone dự án vào Visual Studio Code, sau đó mở "Terminal".
+# Cách cài đặt
 
 ### Chạy `npm install` để tải các thư viện của dự án trong "package.json".
 
